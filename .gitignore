@@ -1,0 +1,12 @@
+*.ipch
+*.tlog
+*.obj
+*.pdb
+*.idb
+*.pch
+*.user
+*.exe
+*.db
+*.opendb
+*.log
+*.suo
